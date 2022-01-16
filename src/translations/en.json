@@ -1,0 +1,127 @@
+{
+  "language": "eng",
+  "navTopics": {
+    "home": {
+      "name": "Home",
+      "to": "/"
+    },
+    "projects": {
+      "name": "Projects",
+      "to": "/projects"
+    },
+    "about": {
+      "name": "About me",
+      "to": "/about"
+    },
+    "contact": {
+      "name": "Contact",
+      "to": "/contact"
+    }
+  },
+  "navProjetsTitles": [
+    "Visualizations",
+    "Furnitures",
+    "Other Projects",
+    "Rooms"
+  ],
+  "projects": [
+    [
+      {
+        "name": " Microhome 2020",
+        "url": "/projects/visualizations/microhome-2020",
+        "title": "Competition project - Microhome 2020",
+        "description": "The design assumption was to create a residential house for a youngcouple. It has: kitchen, work space, bedroom (antresol), bathroom andsmall wardrobe. The whole house and its equipment is monochrome. It isblue. The exception is a wooden table with two chairs. They are to referto the family home, memories and childhood. The entire facade is glazedso that as much light as possible gets inside. The facade has one moretask. Interior and exterior integration - the user goes outside with thefunctions of the house. It is to be an intuitive desire to be close tonature. Equipment also has a purpose. When no resident uses any of thezones - they are closed or hidden. When he wants to use them - he opensthem. The kitchen has an additional worktop hidden in the wall, and inthe apparent wardrobe and place of relaxation is hidden desk in the closet towork on the computer.. When the user wants to work, he moves the chairfrom the kitchen to the second room and works there. It is also possibleto continue it elsewhere. Just open the terrace door and go from thework area to the mini terrace. The house has a single-fall roof. It ischeaper and easier to make. You can also collect rainwater and use itfor work, e.g. in the garden (axonometry). A large number of windowswill allow home insulation. By respecting nature, the project uses lessmaterial. One piece of furniture has several functions."
+      },
+      {
+        "name": "mini LAB",
+        "url": "/projects/visualizations/minilab",
+        "description": "The idea of mini lab (miniLAB) is to sharpen the senses to stimulate the child to act individually and in group, but most importantly, help to discover the creative element in it, while also exploring the beautiful in my things and their details. The program of the workshops will be prepared in such a way that its participants together with the guest designer could together create the idea of a small studio where each of them a full role. The space will be designed this way, so that users can feel comfortable in it.",
+        "subDescription": "Aesthetic color combination and legible forms spatial will give the interiors a character, in which the child does not will be dispersed, but focused and willing to act. Route the design process from idea to design has the task of to make the child feel as important as the real one designer. In this way it should result in improved self-esteem, common integration, development of sensitivity and free creation even in the youngest."
+      },
+      {
+        "name": "Realisation of the apartment",
+        "url": "/projects/visualizations/zukowo",
+        "location": "Gdańsk, Żukowo",
+        "area": "86m2",
+        "destiny": "Design of an apartment for a four-person family"
+      },
+      {
+        "name": "FUSY",
+        "url": "/projects/visualizations/fusy",
+        "description": "Fusy - city in times of plague. Interior design of a commercial space in Gdynia. The theme of the task was to help to reflect on the impact of the pandemic on everyday life and the role of the architect in creating a \"new world\".  Analyzing the location and the tourist aspect, a design of a café was created, which could function in pandemic and post-pandemic times."
+      }
+    ],
+    [
+      {
+        "name": "Coffee table",
+        "url": "/projects/furnitures/coffee-table",
+        "title": "Coffee table design",
+        "description": "The coffee table I designed was created with the idea of incorporating it into a selected living space. It is a living room in a 17th century Catalan house in Spain. The whole object is made of natural stone with different textures. The design assumption for the table was primarily form and function. Because of the cubature of the chosen room I've decided to design two tables, which after joining together create a common whole. The shape is supposed to refer to the simplified form of natural stone, that's why the edges of the tables are led in a delicate arc, and the ash wood and matte black painted steel legs I used refer to the contrasting features of the house which are rawness, softness and delicacy."
+      },
+      {
+        "name": "Simple seat",
+        "url": "/projects/furnitures/simple-seat",
+        "description": "The project was created with the assumption of using as much waste material as possible. It is a piece of furniture that can be assembled without using additional tools."
+      },
+      {
+        "name": "Seat - 'tear'",
+        "url": "/projects/furnitures/tear-seat",
+        "description": "The design of DROP modular furniture resembling a drop of water was created for use in public places. The main design assumption was to enable the user to arrange the seats in their own creative arrangement. The collection of modular seats perfectly develops children's imagination, teaches creativity and cooperation. The collection consists of three basic modules of the same form and different heights: 30/40/45 cm. Stable seats are upholstered with high quality material (fabric Ballagie velvet col. 07, 19, 23).",
+        "subDescription": "The body of the seat was inspired by natural forms of nature like a cone shape. It is made up of repetitive elements which, despite the increasing scale, form a complex, interesting form. Seat heights are varied for ergonomic reasons. They are designed for both children and adults. That is why DROP modular seats are comfortable and adapted for everyone. Thanks to the profiled shape, which is based on two circles, the seats can be combined with each other depending on the needs, creating many interesting compositions."
+      },
+      {
+        "name": "Harmony",
+        "url": "/projects/furnitures/harmony",
+        "description": "HARMONY chair was designed for people who need a comfortable and ergonomic seat, where you can work while using a laptop. Properly sculpted armrests will allow you to work in comfort, while the soft contoured backrest provides greater comfort, privacy and convenience."
+      }
+    ],
+    [
+      {
+        "name": "Ściana dekoracyjna 'Magia'",
+        "url": "/projects/other/decorative-wall-Magia",
+        "description": "Design and implementation of a decorative wall in the hairdressing salon ,,Magia,,"
+      }
+    ],
+    [
+      {
+        "name": "Reading Room",
+        "url": "/projects/rooms/reading-room",
+        "description": "The aim of the project was to develop public space in The form of a reading room. It is a specialized place where there are books, audiobooks, publications and albums, exclusively on the subject of botanical. The botanical reading room with its colors and form has the task of relaxing and silencing. A purposeful procedure of setting the seats has the task of creating additional comfort for the reader, so that everyone can find a place for themselves. The main inspiration for the project were analysis of plant structures under a microscope. Their organic form directed me to design a space with liquid, wavy and light character. The interiors are filled with fabrics starting from the floor to the seats in contrast to the metal tubes in the colors of nature. They create a form in which they are finding places for books."
+      },
+      {
+        "name": "Kitchen design 1.",
+        "url": "/projects/rooms/kitchen-design-1"
+      },
+      {
+        "name": "Kitchen design 2.",
+        "url": "/projects/rooms/kitchen-design-2"
+      }
+    ]
+  ],
+  "about": {
+    "name": "Justyna Kraińska",
+    "position": "Interior Designer",
+    "description": "My name is Justyna Kraińska. My passion is searching for forms, colors, structures, which together create a unique space. I like to gain experience in art. I am passionate about painting and creating analogue photographs.",
+    "shortDesc": "Hello, my name is Justyna and I come from Grudziądz - not a big city in Kujawsko-Pomorskie province. I began my adventure with interiors in 2015 and it continues until now.",
+    "skills": "Works in Programms"
+  },
+  "contact": {
+    "topInfo": "You can contact me through",
+    "bottomInfo": "Or by using the form below",
+    "info": [
+      {
+        "name": "E-mail",
+        "url": "/about"
+      },
+      {
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/in/dawidkrainski/"
+      },
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/koper112lee"
+      }
+    ]
+  },
+  "copyrights": "© 2022 Design & Developed by Dawid Kraiński & Julia Bogusławska. All rights reserved."
+}
